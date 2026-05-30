@@ -140,6 +140,12 @@ public class PausarEscenaManager : MonoBehaviour
         menuPausa.SetActive(true);
     }
 
+
+    public void BotonPausa()
+    {
+        TogglePause();
+    }
+
     // SLIDERS
 
     public void SetMasterVolume(float volume)
