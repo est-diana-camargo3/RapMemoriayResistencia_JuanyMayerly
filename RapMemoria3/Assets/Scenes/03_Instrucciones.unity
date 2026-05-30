@@ -468,7 +468,7 @@ GameObject:
   - component: {fileID: 174592973}
   - component: {fileID: 174592972}
   m_Layer: 5
-  m_Name: BotonFlechaIzquierda_panel_001
+  m_Name: FlechaIzquierda_panel_001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -481,17 +481,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 174592970}
-  m_LocalRotation: {x: 0, y: -0, z: 0.7071068, w: -0.7071068}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: -0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.030805286, y: 0.047392745, z: 0.047392745}
+  m_LocalScale: {x: 0.0739327, y: 0.11374261, z: 0.113742605}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1868071553}
+  m_Father: {fileID: 1780996843}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 270}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 197.50998, y: -85.5}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 489.9151, y: -112.68765}
+  m_SizeDelta: {x: 799.99994, y: 449.99997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &174592972
 MonoBehaviour:
@@ -888,7 +888,7 @@ GameObject:
   - component: {fileID: 693598819}
   - component: {fileID: 693598818}
   m_Layer: 5
-  m_Name: BotonFlechaDerecha_panel_001
+  m_Name: FlechaDerecha_panel_001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -901,17 +901,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 693598816}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.030805286, y: 0.047392745, z: 0.047392745}
+  m_LocalScale: {x: 0.0739327, y: 0.113742605, z: 0.113742605}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1868071553}
+  m_Father: {fileID: 1780996843}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 223.39998, y: -86.237015}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 552.0511, y: -114.45647}
+  m_SizeDelta: {x: 799.99994, y: 449.99997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &693598818
 MonoBehaviour:
@@ -1293,7 +1293,7 @@ GameObject:
   - component: {fileID: 1152513083}
   - component: {fileID: 1152513082}
   m_Layer: 5
-  m_Name: BotonFlechaAbajo_panel_001
+  m_Name: FlechaAbajo_panel_001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1306,17 +1306,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1152513080}
-  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.030805286, y: 0.047392745, z: 0.047392745}
+  m_LocalScale: {x: 0.0739327, y: 0.11374261, z: 0.113742605}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1868071553}
+  m_Father: {fileID: 1780996843}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 249.60997, y: -85.8}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 614.95514, y: -113.40764}
+  m_SizeDelta: {x: 799.99994, y: 449.99997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1152513082
 MonoBehaviour:
@@ -1602,7 +1602,7 @@ GameObject:
   - component: {fileID: 1297881027}
   - component: {fileID: 1297881026}
   m_Layer: 5
-  m_Name: BotonFlechaArriba_panel_001
+  m_Name: FlechaArriba_panel_001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1615,17 +1615,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1297881024}
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.030805286, y: 0.047392745, z: 0.047392745}
+  m_LocalScale: {x: 0.0739327, y: 0.113742605, z: 0.113742605}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1868071553}
+  m_Father: {fileID: 1780996843}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 223.7, y: -63.5}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 552.7711, y: -59.887634}
+  m_SizeDelta: {x: 799.99994, y: 449.99997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1297881026
 MonoBehaviour:
@@ -1964,6 +1964,41 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1603077850}
   m_CullTransparentMesh: 1
+--- !u!1 &1780996842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1780996843}
+  m_Layer: 0
+  m_Name: Flechas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1780996843
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1780996842}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.621322, y: -38.546825, z: 0}
+  m_LocalScale: {x: 0.41666663, y: 0.41666663, z: 0.41666663}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1297881025}
+  - {fileID: 174592971}
+  - {fileID: 693598817}
+  - {fileID: 1152513081}
+  m_Father: {fileID: 1868071553}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1867079161
 GameObject:
   m_ObjectHideFlags: 0
@@ -2204,10 +2239,7 @@ RectTransform:
   - {fileID: 1867079162}
   - {fileID: 1261837827}
   - {fileID: 557671718}
-  - {fileID: 1297881025}
-  - {fileID: 174592971}
-  - {fileID: 693598817}
-  - {fileID: 1152513081}
+  - {fileID: 1780996843}
   - {fileID: 1516840390}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
