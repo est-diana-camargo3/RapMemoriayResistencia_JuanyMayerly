@@ -22255,14 +22255,14 @@ RectTransform:
   m_GameObject: {fileID: 1286786838}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5611305, y: 0.3958497, z: 0.43983302}
+  m_LocalScale: {x: 0.63553643, y: 0.44833934, z: 0.49815485}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1052985225}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 762, y: 496}
+  m_AnchoredPosition: {x: 779, y: 494}
   m_SizeDelta: {x: 252.4026, y: 179.7282}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1286786840
@@ -22309,9 +22309,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 500292588}
-        m_TargetAssemblyTypeName: CambiarCamaraBoton, Assembly-CSharp
-        m_MethodName: CambiarCamara
+      - m_Target: {fileID: 1267589693}
+        m_TargetAssemblyTypeName: PlayerController, Assembly-CSharp
+        m_MethodName: SaltarDesdeBoton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

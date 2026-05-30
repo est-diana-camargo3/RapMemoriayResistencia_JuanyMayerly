@@ -50,6 +50,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    public void SaltarDesdeBoton()
+    {
+        jumpPressed = true;
+    }
+
     // CAMBIO DE CAMARA
 
     public void OnSwitchCamera(InputAction.CallbackContext context)
