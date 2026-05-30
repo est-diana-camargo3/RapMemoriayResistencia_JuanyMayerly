@@ -26,7 +26,7 @@ public class CambiarNombreEtapaManager : MonoBehaviour
         if (pos.x > 0f && pos.x <= 30f &&
             pos.z >= -30f && pos.z <= 0f)
         {
-            stageText.text = "Etapa 2: 1971  ->  Manifestaciones en TV";
+            stageText.text = "Etapa 2: 1971  ->  Marchas por segregación";
 
             CambiarEtapa(2);
         }
@@ -35,7 +35,7 @@ public class CambiarNombreEtapaManager : MonoBehaviour
         else if (pos.x >= -30f && pos.x <= 0f &&
                  pos.z >= -30f && pos.z <= 0f)
         {
-            stageText.text = "Etapa 1: 1970  ->  El Bronx, AV Sedgwick";
+            stageText.text = "Etapa 1: 1970  ->  El Bronx, Edificio 1520";
 
             CambiarEtapa(1);
         }
@@ -44,7 +44,7 @@ public class CambiarNombreEtapaManager : MonoBehaviour
         else if (pos.x > 0f && pos.x <= 30f &&
                  pos.z > 0f && pos.z <= 30f)
         {
-            stageText.text = "Etapa 3: 1973  ->  DJ Kool Mezclando, Edificio 1520";
+            stageText.text = "Etapa 3: 1973  ->  Nacen los DJ´s: Dj Kool";
 
             CambiarEtapa(3);
         }
@@ -53,7 +53,7 @@ public class CambiarNombreEtapaManager : MonoBehaviour
         else if (pos.x > -30f && pos.x <= 0f &&
                  pos.z >= 0f && pos.z <= 30f)
         {
-            stageText.text = "Etapa 4: 1974  ->  MC Coke rapeando en parque";
+            stageText.text = "Etapa 4: 1974  ->  Nacen los MC´s : Mc Coke";
 
             CambiarEtapa(4);
         }
