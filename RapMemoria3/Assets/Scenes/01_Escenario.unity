@@ -25163,6 +25163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PhoneBoothInteraction
   infoPanel: {fileID: 444940666}
+  narracionAudio: {fileID: 1267642908}
 --- !u!65 &1289184380
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35803,6 +35804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PhoneBoothInteraction
   infoPanel: {fileID: 206098745}
+  narracionAudio: {fileID: 0}
 --- !u!65 &1865722305
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36370,6 +36372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PhoneBoothInteraction
   infoPanel: {fileID: 1229431458}
+  narracionAudio: {fileID: 0}
 --- !u!65 &1901161335
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39159,6 +39162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PhoneBoothInteraction
   infoPanel: {fileID: 730503158}
+  narracionAudio: {fileID: 0}
 --- !u!65 &1933131068
 BoxCollider:
   m_ObjectHideFlags: 0
