@@ -13,9 +13,6 @@ public class CambiarNombreEtapaManager : MonoBehaviour
     public AudioSource etapa3Music;
     public AudioSource etapa4Music;
 
-    [Header("Narracion")]
-    public AudioSource narracionDonna;
-
     private int etapaActual = 0;
 
     void Update()
@@ -77,14 +74,12 @@ public class CambiarNombreEtapaManager : MonoBehaviour
         etapa2Music.Stop();
         etapa3Music.Stop();
         etapa4Music.Stop();
-        narracionDonna.Stop();
 
         // REPRODUCIR SEGUN ETAPA
         switch (nuevaEtapa)
         {
             case 1:
                 etapa1Music.Play();
-                narracionDonna.Play();
                 break;
 
             case 2:
